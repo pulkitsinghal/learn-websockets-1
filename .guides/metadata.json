@@ -1,0 +1,68 @@
+{
+ "sections": [
+  {
+   "id": "3585314e-5f7a-10f9-97f8-61b3d432602f",
+   "title": "Credits",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Credits-3585.md"
+  },
+  {
+   "id": "489cad7-d0b6-91fb-274c-2080db75a364",
+   "title": "The web framework",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-web-framework-489c.md"
+  },
+  {
+   "id": "e2146322-3ceb-5daf-194b-7c8a7d57c1b0",
+   "title": "Serving HTML",
+   "files": [
+    {
+     "path": "#terminal: ~/workspace/sample1",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Serving-HTML-e214.md"
+  },
+  {
+   "id": "3337b6a9-2350-c43e-9756-684da5f6414",
+   "title": "Integrating Socket.IO",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Integrating-Socket-IO-3337.md"
+  },
+  {
+   "id": "595021e7-26e-7722-928f-5266ab83689c",
+   "title": "Emitting events",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Emitting-events-5950.md"
+  },
+  {
+   "id": "e4952018-10d4-3547-e598-35721e367b5d",
+   "title": "Broadcasting",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Broadcasting-e495.md"
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": []
+}
